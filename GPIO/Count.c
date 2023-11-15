@@ -15,10 +15,10 @@ int main(void)
     DDRA = 0xFF;		// Set PORTA as OUTPUT;
     while (1) 
     {
-		for (uint8_t i = 0; i < 256; i++) {
-			PORTA = i;
-			_delay_ms(500);
-		}
+		  for (uint8_t i = 0; i < 256; i++) {
+			  PORTA = i;
+			  _delay_ms(500);
+		  }
     }
 }
 
