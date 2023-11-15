@@ -11,7 +11,7 @@
 #include <util/delay.h>
 #include <avr/interrupt.h>
 
-void UART_Init(unsigned long BAUD_RATE);			// Initial UART and set BaudRate
+void UART_Init(unsigned long BAUD_RATE);		// Initial UART and set BaudRate
 void UART_TransmitByte(unsigned char data);		// Transmit 1 byte
 unsigned char UART_ReceiveByte();				// Receive 1 byte
 void UART_Transmit(const char *data);			// Transmit multi bytes
