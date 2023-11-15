@@ -1,6 +1,6 @@
 #MikcroC <br />
 
-User Guide and Example Code for Easy AVR Board <br />
+User's Guide and Example Code for Easy AVR Board <br />
 
 Requirement tools:
 <br />
