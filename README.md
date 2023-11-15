@@ -1,6 +1,9 @@
 ## MikcroC User's Guide and Example Code for Easy AVR Board <br />
 
-###Requirement tools: <br />
+> [!NOTE]  
+> Used for reference purposes only.
+
+### Requirement tools: <br />
 
 #### Software: <br />
 
