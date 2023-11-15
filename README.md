@@ -2,8 +2,8 @@
 
 > [!NOTE]
 > - Authors:
->     - Trần Duy Nghĩa - K65 KTĐT&TH
->     - Nguyễn Tiến Đạt - K65 KTĐT&TH
+>   - Trần Duy Nghĩa - K65 KTĐT&TH
+>   - Nguyễn Tiến Đạt - K65 KTĐT&TH
 
 > [!WARNING]  
 > - Used for reference purposes only!
