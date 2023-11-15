@@ -1,7 +1,7 @@
 #MikcroC User's Guide and Example Code for Easy AVR Board <br />
-***** Directed by Trần Duy Nghĩa heheh - K65 KTĐT&TH *****<br />
+<br />***** Directed by Trần Duy Nghĩa heheh - K65 KTĐT&TH *****<br />
 ***** Code để tham khảo thôi, bí quá mới dùng chứ đừng có copy patse nhé ***** <br />
-Requirement tools: <br />
+<br />Requirement tools: <br />
 
 1. Software: <br />
 - IDE: Microchip Studio - https://www.microchip.com/en-us/tools-resources/develop/microchip-studio#Downloads <br />
