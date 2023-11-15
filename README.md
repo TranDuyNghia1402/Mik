@@ -11,7 +11,7 @@
 > - Copy files and patse to your own projects.
 > - Good luck ^.^!
 
-**Requirement tools:** 
+**Requirement tools:** <br />
 *1. Software:* <br />
 - IDE: Microchip Studio - https://www.microchip.com/en-us/tools-resources/develop/microchip-studio#Downloads
 - Complier: XC8 - https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/downloads-documentation
