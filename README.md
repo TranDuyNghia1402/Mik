@@ -9,7 +9,7 @@
 
 > [!TIP]
 > - Copy files and patse to your own projects and see the results.
-> - Base on those examples, write your own header files. Ex: UART.h, ADC.h,...
+> - Base on those examples, write your own header files. Examples: UART.h, ADC.h,...
 > - That'll help you in your examinations
 > - Good luck ^.^!
 
