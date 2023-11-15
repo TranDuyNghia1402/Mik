@@ -20,14 +20,16 @@
 #define DIP2_SELECT()						PORTA = 0x04
 #define DIP3_SELECT()						PORTA = 0x08
 
+// Search keyword 7seg editor
 unsigned char numbers[] = {0x3F, 0x06, 0x5B, 0x4F, 0x66, 0x6D, 0x7D, 0x07, 0x7F, 0x6F};
+
 volatile unsigned int count = 0;
+uint8_t units;
 uint8_t dozens;
 uint8_t hundreds;
 uint8_t thousands;
-uint8_t units;
 
-void splitNumber(int number);
+void separateNumber(int number);
 
 ISR(TIMER1_OVF_vect) {
 	count++;
@@ -49,7 +51,7 @@ int main(void)
 	/***************************************/
     while (1) 
     {
-		splitNumber(count);
+		separateNumber(count);
 		DIP0_SELECT();	
 		SEVEN_SEGMENTS_DISPLAY(numbers[units]);
 		_delay_us(200);	
@@ -68,7 +70,7 @@ int main(void)
     }
 }
 
-void splitNumber(int number) {
+void separateNumber(int number) {
 	units = number % 10;
 	dozens = (number / 10) % 10;
 	hundreds = (number / 100) % 10;
