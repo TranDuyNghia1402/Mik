@@ -8,6 +8,9 @@
 > [!WARNING]  
 > Used for reference purposes only.
 
+> [!TIP]
+> Copy file and patse to your own project 
+
 **Requirement tools:** <br />
 
 *1. Software:* <br />
