@@ -2,7 +2,7 @@
 
 **************************************************************************<br />
 ************* Directed by Trần Duy Nghĩa - K65 KTĐT&TH *************<br />
-**************** Anh chỉ push file main và header file thôi ****************<br />
+*************** Anh chỉ push file main và header file thôi ***************<br />
 ******* Mấy đứa tự tạo project mới rồi copy code ném vào nhé *******<br />
 **************************************************************************<br />
 <br />Requirement tools: <br />
