@@ -3,8 +3,10 @@
 > - Authors:
 >   - Trần Duy Nghĩa - K65 KTĐT&TH
 >   - Nguyễn Tiến Đạt - K65 KTĐT&TH
+
 > [!WARNING]  
 > - Used for reference purposes only!
+
 > [!TIP]
 > - Copy files and patse to your own projects.
 > - Good luck ^.^!
