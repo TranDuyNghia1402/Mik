@@ -6,11 +6,11 @@
 > - Nguyễn Tiến Đạt - K65 KTĐT&TH
 
 > [!WARNING]  
-> Used for reference purposes only!
+> - Used for reference purposes only!
 
 > [!TIP]
-> Copy file and patse to your own project.
-> Good luck ^.^!
+> - Copy file and patse to your own project.
+> - Good luck ^.^!
 
 **Requirement tools:** <br />
 
