@@ -2,8 +2,7 @@
 
 <br />
 *************************************************************************<br />
-************  Directed by Trần Duy Nghĩa heheh - K65 KTĐT&TH ************<br />
-***** Code để tham khảo, bí quá mới dùng chứ đừng có copy patse nhé *****<br />
+************ Directed by Trần Duy Nghĩa - K65 KTĐT&TH ************<br />
 *************************************************************************<br />
 <br />Requirement tools: <br />
 
