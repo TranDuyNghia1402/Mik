@@ -1,7 +1,7 @@
 ## MikcroC User's Guide and Example Code for Easy AVR Board <br />
 
 > [!NOTE]
-> Directed by:
+> Authors:
 > - Trần Duy Nghĩa - K65 KTĐT&TH
 > - Nguyễn Tiến Đạt - K65 KTĐT&TH
 
