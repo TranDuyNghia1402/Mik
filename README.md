@@ -25,3 +25,4 @@
   - EasyAVR v7 Development System: - https://www.mikroe.com/easyavr
   - Peripheral configuration manual: - https://www.manualslib.com/manual/1851904/Mikroelektronika-Easyavr-V7.html?page=2#manual
   - MCU datasheet: - https://ww1.microchip.com/downloads/en/DeviceDoc/Atmega32A-DataSheet-Complete-DS40002072A.pdf
+  
