@@ -79,12 +79,9 @@ void LCD_SetCursor(int x, int y) {
 	LCD_Command(y);
 }	
 		
-void LCD_Write(const char *data_l) {
-	char data;
-	int len = strlen(data_l);
-	for (int i = 0; i < len; i++) {
-		data = data_l[i];
-		LCD_Data(data);
+void LCD_Write(const char *data) {
+	while (*data) {
+		LCD_Data(*data++);
 	}
 }
 
